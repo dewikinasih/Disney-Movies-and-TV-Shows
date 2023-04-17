@@ -1,6 +1,8 @@
 # Disney-Movies-and-TV-Shows
 Exploratory Data Analysis and Visualization
 
+![image](https://github.com/dewikinasih/Disney-Movies-and-TV-Shows/blob/f8c5554342338238e2c4150867e843c13a63164d/1.png)
+
 Since I love to watch movie, I'm interested to know more about what kind of movie or tv shows on Disney plus with the highest IMDb score. Also, I want to find out the pattern of movie or tvs hows produced each year. is there any pandemic effect that causes the differnce in pattern.
 
 So, I start this project by searching the data on kaggle. then I clean it first, and finally I make some visualization with car chart, pie chart, and line chart
